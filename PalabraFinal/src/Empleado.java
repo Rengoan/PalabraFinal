@@ -11,8 +11,8 @@
 public class Empleado extends Persona { /*Persona no puede tener hijas
   Extends ya que es final */
     
-    public void Imprimir(){//No puede modificar el metodo de persona ya que es final
+    //public void Imprimir(){//No puede modificar el metodo de persona ya que es final
         
-    }
+    //}
     
 }
